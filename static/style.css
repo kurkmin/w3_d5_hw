@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+body > header {
+    background-color: dodgerblue;
+}
+
+body > main {
+    background-color: aqua;
+}
+body > footer {
+    background-color: yellow;
+}
